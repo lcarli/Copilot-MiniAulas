@@ -10,19 +10,16 @@ Este curso ensina como usar ferramentas de IA — especialmente o **GitHub Copil
 
 ```
 ├── aula1/              # Fundamentos e Primeiros Passos
-│   ├── slides/         # Conteúdo dos slides
 │   ├── demos/          # Scripts de demonstração ao vivo
 │   ├── labs/           # Exercícios práticos
 │   └── dados/          # CSVs de dados bancários
 │
 ├── aula2/              # Produtividade e Projeto Final
-│   ├── slides/         # Conteúdo dos slides
 │   ├── demos/          # Scripts de demonstração
 │   ├── labs/           # Exercícios e mini projeto
 │   └── dados/          # CSVs para consolidação
 │
-├── recursos/           # Links úteis e referências
-└── gerar_slides.py     # Script para gerar os .pptx
+└── recursos/           # Links úteis e referências
 ```
 
 ## 🚀 Como Usar
@@ -35,11 +32,6 @@ Este curso ensina como usar ferramentas de IA — especialmente o **GitHub Copil
 ### Instalar dependências
 ```bash
 pip install -r requirements.txt
-```
-
-### Gerar os slides (PowerPoint)
-```bash
-python gerar_slides.py
 ```
 
 ## 📚 Aulas
