@@ -1,0 +1,51 @@
+id_transacao,id_cliente,data,tipo,categoria,valor,descricao
+3,19,2025-02-01,debito,transferencia,575.55,PIX enviado
+43,10,2025-02-01,debito,transferencia,585.24,DOC bancário
+8,18,2025-02-02,debito,aluguel,1491.94,Pagamento aluguel imóvel
+26,16,2025-02-02,debito,alimentacao,193.59,Feira livre
+31,18,2025-02-02,debito,lazer,85.74,Ingresso show
+13,16,2025-02-04,debito,alimentacao,131.55,Restaurante Sabor Caseiro
+33,15,2025-02-06,debito,saude,454.61,Farmácia Drogasil
+36,6,2025-02-06,debito,alimentacao,176.11,Hortifruti Natural
+35,5,2025-02-08,debito,lazer,178.46,Netflix assinatura
+42,4,2025-02-08,debito,transporte,57.05,Estacionamento Centro
+2,20,2025-02-09,debito,alimentacao,57.35,Hortifruti Natural
+12,7,2025-02-09,debito,lazer,279.75,Bar do Alemão
+38,15,2025-02-09,debito,saude,452.49,Psicólogo consulta
+50,17,2025-02-09,credito,transferencia,1658.15,PIX para familiar
+14,6,2025-02-10,debito,lazer,174.63,Spotify assinatura
+40,19,2025-02-10,debito,saude,229.43,Dentista consulta
+48,3,2025-02-10,debito,transporte,65.25,Posto Shell combustível
+7,6,2025-02-11,credito,salario,4972.81,Crédito folha pagamento
+23,15,2025-02-11,debito,transferencia,515.67,PIX para familiar
+6,16,2025-02-12,credito,salario,3926.35,Salário mensal
+22,16,2025-02-12,debito,transporte,115.62,Pedágio Ecovias
+25,13,2025-02-13,debito,transferencia,1321.44,TED para terceiros
+30,18,2025-02-13,debito,transferencia,1780.51,PIX para familiar
+28,5,2025-02-14,debito,transferencia,195.92,Transferência entre contas
+10,18,2025-02-15,credito,salario,3125.50,Depósito salário
+4,6,2025-02-16,debito,lazer,143.82,Ingresso show
+17,16,2025-02-16,debito,alimentacao,116.98,Mercado Dia
+37,8,2025-02-16,credito,transferencia,949.24,Transferência entre contas
+5,6,2025-02-19,credito,salario,6885.47,Salário mensal
+1,3,2025-02-20,debito,alimentacao,94.93,Feira livre
+18,7,2025-02-20,debito,lazer,266.21,Spotify assinatura
+29,11,2025-02-20,debito,saude,335.42,Farmácia Pacheco
+44,2,2025-02-20,debito,educacao,1257.62,Curso Alura
+45,8,2025-02-20,credito,transferencia,420.76,Transferência entre contas
+46,5,2025-02-21,debito,alimentacao,131.08,Supermercado Extra
+21,19,2025-02-22,debito,aluguel,1126.91,Condomínio predial
+39,10,2025-02-22,debito,lazer,40.68,Parque diversões
+16,16,2025-02-23,debito,transporte,107.28,Pedágio Ecovias
+32,8,2025-02-24,debito,alimentacao,195.99,Padaria Pão Quente
+9,4,2025-02-25,credito,salario,5087.58,Salário mensal
+11,20,2025-02-25,debito,aluguel,1772.49,Aluguel apartamento
+19,9,2025-02-25,debito,transferencia,1871.78,DOC bancário
+34,11,2025-02-26,debito,alimentacao,81.32,Mercado Dia
+47,10,2025-02-26,credito,salario,5477.44,Pagamento empresa
+49,5,2025-02-26,debito,lazer,292.02,Streaming Disney+
+15,8,2025-02-27,debito,transferencia,279.06,TED para terceiros
+20,9,2025-02-27,debito,alimentacao,149.32,Hortifruti Natural
+24,8,2025-02-28,credito,transferencia,1502.18,PIX pagamento serviço
+27,4,2025-02-28,credito,transferencia,1825.36,PIX enviado
+41,15,2025-02-28,debito,transporte,149.91,Recarga VEM transporte

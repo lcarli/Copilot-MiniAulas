@@ -1,0 +1,51 @@
+id_transacao,id_cliente,data,tipo,categoria,valor,descricao
+42,20,2025-01-02,debito,lazer,227.23,Livraria Cultura
+44,18,2025-01-03,debito,alimentacao,90.58,Hortifruti Natural
+46,15,2025-01-03,debito,saude,464.24,Exame laboratorial
+48,5,2025-01-03,debito,alimentacao,161.64,Hortifruti Natural
+10,10,2025-01-04,debito,lazer,280.09,Boliche com amigos
+12,8,2025-01-04,debito,saude,171.74,Consulta médica
+15,16,2025-01-04,credito,salario,4173.13,Crédito folha pagamento
+29,11,2025-01-04,debito,educacao,1428.77,Cursinho preparatório
+47,14,2025-01-04,debito,lazer,201.34,Ingresso show
+2,11,2025-01-07,debito,aluguel,1542.50,Aluguel mensal casa
+30,6,2025-01-07,debito,alimentacao,104.58,Hortifruti Natural
+7,5,2025-01-08,debito,alimentacao,138.85,Hortifruti Natural
+32,10,2025-01-08,debito,transporte,48.83,Lavagem automotiva
+18,19,2025-01-09,debito,transporte,40.60,99 corrida
+33,5,2025-01-09,debito,alimentacao,25.09,Açougue Boi Gordo
+43,7,2025-01-09,debito,saude,103.82,Plano de saúde Unimed
+26,8,2025-01-10,debito,saude,203.44,Farmácia Pacheco
+28,9,2025-01-10,debito,transporte,22.50,Posto Shell combustível
+45,16,2025-01-10,debito,alimentacao,68.30,Açougue Boi Gordo
+11,13,2025-01-13,credito,transferencia,1204.59,PIX pagamento serviço
+16,5,2025-01-14,debito,alimentacao,111.52,Açougue Boi Gordo
+8,7,2025-01-15,debito,saude,390.44,Plano de saúde Unimed
+21,6,2025-01-16,debito,alimentacao,162.60,Feira livre
+35,10,2025-01-16,debito,aluguel,1549.55,Aluguel apartamento
+14,3,2025-01-17,debito,saude,35.95,Fisioterapia sessão
+23,1,2025-01-17,credito,transferencia,1454.15,PIX para familiar
+37,3,2025-01-19,debito,saude,55.20,Plano de saúde Unimed
+9,20,2025-01-20,debito,transferencia,1566.69,TED para terceiros
+31,17,2025-01-20,debito,transporte,19.58,Posto Shell combustível
+5,8,2025-01-21,debito,alimentacao,192.10,Supermercado Extra
+34,5,2025-01-21,debito,transferencia,1751.80,DOC bancário
+20,20,2025-01-22,debito,transporte,9.16,Posto Ipiranga combustível
+4,1,2025-01-24,debito,lazer,299.97,Parque diversões
+27,14,2025-01-24,debito,lazer,118.51,Bar do Alemão
+3,9,2025-01-25,debito,transferencia,1678.08,PIX para familiar
+24,18,2025-01-25,debito,alimentacao,103.08,Lanchonete do Zé
+39,18,2025-01-25,credito,salario,5576.76,Salário ref. mês anterior
+40,8,2025-01-25,debito,lazer,146.14,Bar do Alemão
+13,19,2025-01-26,debito,alimentacao,113.56,Feira livre
+17,20,2025-01-26,debito,transferencia,956.50,PIX pagamento serviço
+25,15,2025-01-26,debito,alimentacao,69.43,Mercado Dia
+1,5,2025-01-28,debito,aluguel,910.63,Aluguel mensal casa
+41,10,2025-01-28,debito,lazer,140.07,Boliche com amigos
+19,9,2025-01-29,debito,aluguel,2451.05,Condomínio predial
+22,9,2025-01-29,debito,lazer,266.43,Streaming Disney+
+49,19,2025-01-30,debito,transporte,23.03,Estacionamento Centro
+6,1,2025-01-31,debito,alimentacao,170.26,Hortifruti Natural
+36,9,2025-01-31,credito,transferencia,177.42,PIX para familiar
+38,19,2025-01-31,debito,transporte,149.12,99 corrida
+50,13,2025-01-31,debito,transporte,83.30,Recarga VEM transporte

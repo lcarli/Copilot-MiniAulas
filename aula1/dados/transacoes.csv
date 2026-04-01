@@ -1,0 +1,101 @@
+id_transacao,id_cliente,data,tipo,categoria,valor,descricao
+14,16,2025-01-01,debito,alimentacao,82.15,Açougue Boi Gordo
+22,8,2025-01-01,debito,alimentacao,131.75,Restaurante Sabor Caseiro
+52,2,2025-01-01,debito,transporte,23.97,Estacionamento Centro
+63,8,2025-01-01,debito,saude,217.28,Dentista consulta
+15,8,2025-01-02,debito,alimentacao,119.96,Padaria Pão Quente
+28,4,2025-01-02,credito,salario,4035.82,Salário mensal
+37,11,2025-01-02,debito,alimentacao,103.21,Pizzaria Bella Massa
+38,6,2025-01-02,credito,transferencia,412.36,DOC bancário
+55,18,2025-01-02,debito,transferencia,338.78,TED para terceiros
+80,1,2025-01-02,debito,alimentacao,102.90,Padaria Pão Quente
+84,15,2025-01-02,debito,lazer,276.89,Spotify assinatura
+6,16,2025-01-03,debito,transferencia,348.04,TED para terceiros
+32,1,2025-01-03,debito,transferencia,374.31,PIX para familiar
+26,7,2025-01-04,debito,alimentacao,94.74,Mercado Dia
+44,19,2025-01-04,debito,alimentacao,54.43,Açougue Boi Gordo
+54,1,2025-01-04,debito,alimentacao,178.37,iFood pedido
+17,5,2025-01-05,debito,saude,475.02,Plano de saúde Unimed
+49,18,2025-01-05,debito,transporte,92.70,Posto Ipiranga combustível
+73,18,2025-01-05,debito,alimentacao,138.01,Mercado Dia
+85,15,2025-01-05,debito,transferencia,1976.39,DOC bancário
+91,5,2025-01-05,debito,alimentacao,143.38,Restaurante Sabor Caseiro
+61,9,2025-01-06,credito,transferencia,1750.73,PIX para familiar
+29,8,2025-01-07,debito,alimentacao,97.99,Mercado Dia
+33,16,2025-01-07,debito,transferencia,371.04,PIX enviado
+57,12,2025-01-07,debito,saude,343.46,Farmácia Pacheco
+62,8,2025-01-07,debito,transferencia,645.12,TED para terceiros
+68,19,2025-01-07,debito,transporte,107.77,Uber corrida
+93,2,2025-01-07,debito,transferencia,1551.10,PIX pagamento serviço
+42,11,2025-01-08,debito,transporte,23.98,Estacionamento Centro
+97,16,2025-01-08,debito,transporte,75.42,Pedágio Ecovias
+8,17,2025-01-09,debito,transferencia,72.39,PIX pagamento serviço
+24,8,2025-01-09,debito,saude,130.69,Plano de saúde Unimed
+30,6,2025-01-09,debito,aluguel,2723.87,Aluguel apartamento
+34,13,2025-01-09,debito,transferencia,606.24,PIX pagamento serviço
+88,15,2025-01-09,debito,transferencia,590.76,DOC bancário
+90,8,2025-01-09,debito,transporte,134.49,99 corrida
+10,4,2025-01-10,credito,salario,4722.34,Depósito salário
+46,12,2025-01-10,debito,alimentacao,169.24,Açougue Boi Gordo
+56,2,2025-01-10,debito,transporte,140.30,Uber corrida
+72,17,2025-01-10,debito,saude,183.31,Dentista consulta
+75,10,2025-01-10,debito,alimentacao,160.37,Hortifruti Natural
+21,3,2025-01-11,debito,alimentacao,117.48,Hortifruti Natural
+43,15,2025-01-11,debito,transferencia,68.17,DOC bancário
+65,18,2025-01-11,credito,transferencia,1942.28,TED para terceiros
+71,20,2025-01-11,debito,saude,88.57,Dentista consulta
+5,13,2025-01-12,debito,alimentacao,199.54,Pizzaria Bella Massa
+70,7,2025-01-12,credito,salario,7693.25,Depósito salário
+82,16,2025-01-13,debito,alimentacao,136.37,Supermercado Extra
+67,11,2025-01-14,debito,lazer,163.20,Clube recreativo
+81,15,2025-01-14,debito,transferencia,1450.77,PIX para familiar
+92,3,2025-01-14,credito,salario,5255.67,Crédito folha pagamento
+27,14,2025-01-15,credito,transferencia,1324.24,PIX pagamento serviço
+76,11,2025-01-15,credito,salario,6053.76,Salário ref. mês anterior
+18,9,2025-01-17,debito,transferencia,463.01,DOC bancário
+78,10,2025-01-17,debito,saude,321.05,Consulta médica
+4,18,2025-01-18,debito,transporte,89.76,Troca de óleo veículo
+25,19,2025-01-19,debito,aluguel,2526.16,Aluguel mensal casa
+40,8,2025-01-19,debito,lazer,193.43,Clube recreativo
+41,19,2025-01-19,debito,lazer,281.72,Livraria Cultura
+100,13,2025-01-19,debito,lazer,27.59,Clube recreativo
+7,14,2025-01-20,debito,alimentacao,85.60,Lanchonete do Zé
+12,17,2025-01-20,debito,alimentacao,84.17,iFood pedido
+74,6,2025-01-20,debito,lazer,133.70,Cinema Cinemark
+89,16,2025-01-21,debito,alimentacao,96.38,Açougue Boi Gordo
+9,4,2025-01-22,debito,transferencia,1548.77,Transferência entre contas
+35,18,2025-01-22,debito,educacao,274.46,Curso Alura
+39,3,2025-01-22,debito,transferencia,1886.11,DOC bancário
+50,7,2025-01-22,debito,saude,154.07,Psicólogo consulta
+79,8,2025-01-22,debito,transporte,121.95,Recarga Bilhete Único
+98,11,2025-01-22,debito,saude,220.03,Plano de saúde Unimed
+19,7,2025-01-23,debito,transporte,149.30,Posto Ipiranga combustível
+16,3,2025-01-24,debito,aluguel,952.27,Condomínio predial
+53,6,2025-01-24,credito,salario,6234.00,Salário ref. mês anterior
+96,18,2025-01-24,debito,educacao,1209.81,Curso Udemy
+11,17,2025-01-25,debito,alimentacao,183.84,Açougue Boi Gordo
+83,4,2025-01-25,credito,salario,3055.32,Salário ref. mês anterior
+95,10,2025-01-25,debito,transporte,134.29,Pedágio Ecovias
+1,2,2025-01-26,debito,transporte,43.82,Posto Shell combustível
+31,15,2025-01-26,debito,transferencia,148.65,DOC bancário
+47,20,2025-01-26,debito,saude,33.68,Dentista consulta
+59,6,2025-01-26,debito,transferencia,98.33,PIX pagamento serviço
+60,11,2025-01-26,debito,transferencia,1734.92,TED para terceiros
+77,16,2025-01-26,debito,transferencia,380.90,PIX enviado
+87,14,2025-01-27,debito,transferencia,360.36,PIX para familiar
+94,1,2025-01-28,debito,transferencia,980.11,Transferência entre contas
+2,19,2025-01-29,debito,educacao,358.31,Material escolar
+3,13,2025-01-29,debito,transferencia,566.52,TED para terceiros
+20,15,2025-01-29,debito,lazer,53.88,Livraria Cultura
+23,3,2025-01-29,debito,alimentacao,76.13,Pizzaria Bella Massa
+51,9,2025-01-29,credito,transferencia,1286.85,Transferência entre contas
+58,18,2025-01-29,debito,transferencia,1511.48,TED para terceiros
+45,5,2025-01-30,debito,transporte,14.97,Posto Shell combustível
+69,17,2025-01-30,debito,transferencia,1883.51,PIX pagamento serviço
+99,15,2025-01-30,debito,alimentacao,130.12,Supermercado Extra
+13,18,2025-01-31,debito,transferencia,51.12,Transferência entre contas
+36,7,2025-01-31,debito,alimentacao,151.11,Supermercado Extra
+48,4,2025-01-31,credito,transferencia,1784.94,PIX pagamento serviço
+64,3,2025-01-31,debito,transferencia,1043.34,PIX pagamento serviço
+66,19,2025-01-31,credito,transferencia,1213.31,Transferência entre contas
+86,11,2025-01-31,debito,transferencia,1639.26,DOC bancário

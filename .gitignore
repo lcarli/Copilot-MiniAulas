@@ -1,0 +1,10 @@
+# Arquivos de geracao de slides
+gerar_slides.py
+gerar_slides_new.py
+
+# Sandbox
+Sandbox/
+
+# Python
+__pycache__/
+*.pyc

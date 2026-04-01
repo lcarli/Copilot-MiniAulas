@@ -1,0 +1,51 @@
+id_transacao,id_cliente,data,tipo,categoria,valor,descricao
+6,16,2025-03-01,debito,lazer,284.09,Parque diversões
+44,12,2025-03-01,debito,alimentacao,41.50,Mercado Dia
+15,12,2025-03-02,debito,transporte,32.52,99 corrida
+25,20,2025-03-02,debito,educacao,1367.69,Cursinho preparatório
+16,15,2025-03-03,debito,saude,331.60,Farmácia Drogasil
+18,7,2025-03-03,debito,transferencia,1193.45,TED para terceiros
+28,15,2025-03-03,debito,transferencia,339.25,TED para terceiros
+35,3,2025-03-03,credito,transferencia,238.30,PIX pagamento serviço
+48,20,2025-03-03,credito,transferencia,1521.15,PIX enviado
+4,18,2025-03-04,debito,aluguel,2280.22,Pagamento aluguel imóvel
+14,12,2025-03-04,debito,transferencia,1808.31,PIX pagamento serviço
+31,14,2025-03-04,credito,transferencia,1326.69,DOC bancário
+45,3,2025-03-05,debito,educacao,1459.12,Mensalidade faculdade
+43,1,2025-03-06,debito,transporte,115.55,Posto Ipiranga combustível
+46,17,2025-03-07,debito,transporte,70.78,Recarga Bilhete Único
+7,20,2025-03-08,debito,saude,328.64,Psicólogo consulta
+49,3,2025-03-09,credito,salario,4544.09,Salário ref. mês anterior
+26,17,2025-03-10,debito,aluguel,2920.86,Aluguel apartamento
+47,12,2025-03-10,debito,educacao,1176.41,Livro didático
+22,19,2025-03-11,debito,alimentacao,64.09,iFood pedido
+37,18,2025-03-11,debito,saude,223.08,Fisioterapia sessão
+3,18,2025-03-12,debito,alimentacao,88.00,Açougue Boi Gordo
+40,4,2025-03-12,debito,transferencia,1537.08,DOC bancário
+5,19,2025-03-13,debito,transferencia,261.27,TED para terceiros
+10,5,2025-03-13,debito,aluguel,2275.07,Condomínio predial
+33,15,2025-03-13,credito,salario,2570.52,Crédito folha pagamento
+32,7,2025-03-14,debito,aluguel,1302.69,Pagamento aluguel imóvel
+50,15,2025-03-14,debito,transporte,114.47,99 corrida
+9,10,2025-03-16,debito,alimentacao,58.44,Pizzaria Bella Massa
+23,14,2025-03-17,debito,alimentacao,26.76,Lanchonete do Zé
+24,12,2025-03-17,debito,lazer,146.56,Livraria Cultura
+39,19,2025-03-17,debito,alimentacao,136.50,Restaurante Sabor Caseiro
+11,14,2025-03-19,debito,educacao,274.06,Material escolar
+29,9,2025-03-20,debito,saude,287.73,Farmácia Pacheco
+30,13,2025-03-20,debito,lazer,147.04,Boliche com amigos
+8,10,2025-03-21,credito,salario,2838.66,Salário mensal
+21,4,2025-03-22,credito,transferencia,748.57,TED para terceiros
+34,11,2025-03-22,debito,transporte,143.27,Recarga VEM transporte
+42,20,2025-03-22,debito,saude,42.34,Dentista consulta
+13,2,2025-03-23,debito,transporte,69.29,Posto Shell combustível
+1,10,2025-03-24,debito,transferencia,963.25,PIX enviado
+2,5,2025-03-25,debito,transferencia,1462.22,PIX para familiar
+19,11,2025-03-25,debito,alimentacao,181.60,Supermercado Extra
+17,2,2025-03-26,debito,transporte,148.38,Troca de óleo veículo
+36,12,2025-03-26,debito,alimentacao,26.10,Pizzaria Bella Massa
+41,8,2025-03-26,credito,salario,5365.79,Salário ref. mês anterior
+12,4,2025-03-27,debito,aluguel,1697.85,Pagamento aluguel imóvel
+20,9,2025-03-28,debito,transferencia,1103.42,TED para terceiros
+27,16,2025-03-28,credito,salario,6116.58,Crédito folha pagamento
+38,2,2025-03-31,debito,transporte,50.31,99 corrida

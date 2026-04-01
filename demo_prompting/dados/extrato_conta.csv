@@ -1,0 +1,31 @@
+data,descricao,categoria,tipo,valor
+2025-03-01,Salario Empresa XYZ,salario,credito,5500.00
+2025-03-02,Supermercado Pao de Acucar,alimentacao,debito,287.45
+2025-03-03,Uber - Trabalho,transporte,debito,23.90
+2025-03-04,Farmacia Drogasil,farmacia,debito,67.30
+2025-03-05,Restaurante Sabor Caseiro,alimentacao,debito,45.00
+2025-03-06,Netflix Assinatura,lazer,debito,39.90
+2025-03-07,Padaria Boa Massa,alimentacao,debito,18.50
+2025-03-08,Posto Shell - Gasolina,transporte,debito,250.00
+2025-03-10,Aluguel Apartamento,aluguel,debito,1800.00
+2025-03-10,Condominio Residencial,aluguel,debito,450.00
+2025-03-11,Mercado Livre - Compra,lazer,debito,129.90
+2025-03-12,ifood - Almoco,alimentacao,debito,32.00
+2025-03-13,Uber - Medico,transporte,debito,18.50
+2025-03-14,Freelance Design,salario,credito,1200.00
+2025-03-15,Supermercado Extra,alimentacao,debito,312.80
+2025-03-16,Cinema Cinemark,lazer,debito,65.00
+2025-03-17,Farmacia Pacheco,farmacia,debito,42.10
+2025-03-18,Conta de Luz - Enel,aluguel,debito,185.60
+2025-03-19,Restaurante Outback,alimentacao,debito,98.00
+2025-03-20,99 - Trabalho,transporte,debito,15.70
+2025-03-21,Spotify Assinatura,lazer,debito,21.90
+2025-03-22,Supermercado Dia,alimentacao,debito,156.30
+2025-03-23,Transferencia recebida PIX,salario,credito,350.00
+2025-03-24,Uber Eats - Jantar,alimentacao,debito,55.00
+2025-03-25,Estacionamento Shopping,transporte,debito,12.00
+2025-03-26,Farmacia Droga Raia,farmacia,debito,89.50
+2025-03-27,Padaria Boa Massa,alimentacao,debito,22.00
+2025-03-28,Conta de Internet - Vivo,aluguel,debito,119.90
+2025-03-29,Livraria Cultura,lazer,debito,74.90
+2025-03-30,Supermercado Pao de Acucar,alimentacao,debito,198.70

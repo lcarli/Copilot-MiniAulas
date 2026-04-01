@@ -1,0 +1,21 @@
+id_cliente,nome,cpf,agencia,tipo_conta,data_abertura,saldo_atual
+1,Ana Clara Silva,143.267.589-01,0003,corrente,2023-08-02,6010.89
+2,Carlos Eduardo Souza,287.614.390-52,0001,corrente,2021-04-02,7407.13
+3,Maria Fernanda Oliveira,391.845.672-03,0001,corrente,2023-04-24,21385.13
+4,João Pedro Santos,412.763.098-14,0005,corrente,2021-03-23,12016.71
+5,Beatriz Lima Pereira,523.198.467-25,0005,poupanca,2023-02-23,10342.46
+6,Lucas Gabriel Costa,634.521.870-36,0003,corrente,2021-03-27,22735.85
+7,Juliana Almeida Rocha,745.309.281-47,0004,poupanca,2024-04-03,40388.05
+8,Rafael Mendes Ferreira,856.742.193-58,0003,corrente,2021-07-23,8196.24
+9,Camila Rodrigues Barros,967.153.804-69,0003,poupanca,2020-07-08,19306.40
+10,Pedro Henrique Martins,108.476.235-70,0001,poupanca,2023-05-21,13593.78
+11,Larissa Gomes Ribeiro,219.387.546-81,0004,corrente,2023-01-03,6678.90
+12,Thiago Nascimento Araújo,320.698.157-92,0005,poupanca,2023-02-04,15012.32
+13,Fernanda Castro Dias,431.509.768-03,0001,corrente,2023-03-28,10018.29
+14,Gustavo Lopes Cardoso,542.810.379-14,0003,corrente,2023-09-16,11780.96
+15,Patrícia Moreira Teixeira,653.721.480-25,0004,poupanca,2021-04-21,43390.94
+16,Bruno Carvalho Monteiro,764.032.591-36,0003,corrente,2022-07-17,31966.38
+17,Mariana Duarte Correia,875.143.602-47,0003,corrente,2022-01-28,18085.90
+18,Diego Farias Nunes,986.254.713-58,0005,corrente,2023-06-01,31931.43
+19,Isabela Ramos Freitas,097.365.824-69,0003,corrente,2020-11-30,23381.88
+20,Vinícius Barbosa Pinto,178.496.035-70,0001,corrente,2023-11-03,16552.00
